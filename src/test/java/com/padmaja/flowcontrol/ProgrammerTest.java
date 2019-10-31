@@ -20,5 +20,6 @@ public class ProgrammerTest {
         programmer.startProjectWork();
         programmer.writeCode();
         programmer.accessBaseClassMembers();
+        programmer.attendTraining();
     }
 }
