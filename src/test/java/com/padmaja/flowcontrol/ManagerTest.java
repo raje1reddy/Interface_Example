@@ -11,6 +11,8 @@ public class ManagerTest {
         manager.startProjectWork();
         manager.reachOffice();
         manager.reportProjectStatus();
+        manager.attendTraining();
+        manager.conductInterview();
 
     }
 }
